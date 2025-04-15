@@ -28,7 +28,7 @@ These models are open-source and can be downloaded freely from **Sketchfab**.
 To use the AR application, follow these steps:
 
 1. **Download the APK**:
-   - Go to the [Releases](https://github.com/your-repository/releases) section of the repository and download the **APK** file for Android devices.
+   - Go to the [Releases](https://github.com/bbandic1/Computer-Graphics/releases) section of the repository and download the **APK** file for Android devices.
    
 2. **Download the Marker Image**:
    - Download the marker image from the root folder in this repository: [Vuforia Engine - Image](./Vuforia%20Engine%20-%20Image.png).
