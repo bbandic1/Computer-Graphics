@@ -46,4 +46,3 @@ To use the AR application, follow these steps:
 
 - **Technology Stack**: Blender, Unity, Vuforia Engine for AR.
 - **Application Type**: Marker-based AR, available as an Android APK.
-- **License**: The models and app are free to download and use. However, commercial use of the models may require permission from the author.
